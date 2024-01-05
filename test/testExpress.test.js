@@ -1,7 +1,7 @@
 import request from 'supertest'
 import {afterAll, describe, expect, test} from "@jest/globals";
 
-import {app, server} from "../app.js";
+import {app, server} from "../app";
 
 describe('Testing http entry point', () => {
     test('It should response with plain text \'world\'', async () => {
