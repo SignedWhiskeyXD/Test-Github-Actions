@@ -1,4 +1,4 @@
-import {myAdd} from "../myFunc.js";
+import {myAdd} from "../myFunc";
 import {expect, test} from "@jest/globals";
 
 test('1 + 2 should equals 3', () => {
