@@ -1,0 +1,1 @@
+A very simple Node.js application, for testing and learning Github-Actions only
